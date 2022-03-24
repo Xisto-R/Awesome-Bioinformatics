@@ -1,4 +1,4 @@
-#  Bioiinformatics
+#  Bioinformatics
 
 > Bioinformatics is an interdisciplinary field that develops methods and software tools for understanding biological data. — [Wikipedia](https://en.wikipedia.org/wiki/Bioinformatics)
 
